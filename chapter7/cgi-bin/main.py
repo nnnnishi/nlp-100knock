@@ -43,7 +43,7 @@ template_result = Template('''
         〔レーティング〕$rating<br />
 ''')
 
-# MongoDBのデータベースtestdbにコレクションartistにアクセス
+# MongoDBのデータベースmusicsにコレクションartistにアクセス
 client = MongoClient()
 db = client.musics
 collection = db.artist
