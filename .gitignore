@@ -96,3 +96,4 @@ ENV/
 .idea/
 .ipynv_checkpoints/
 .DS_Store
+stanford-corenlp-full-2016-10-31/
